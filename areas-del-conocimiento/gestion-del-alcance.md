@@ -1,0 +1,2 @@
+- Gestion del alcance
+ - Incluye los procesos necesarios para garantizar que el proyecto incluya todo el trabajo requerido y unicamente el trabajo para completar el proyecto. define y controla que se incluye y que no se incluye en el proyecto.

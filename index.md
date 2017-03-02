@@ -1,2 +1,2 @@
 # gestion de proyectos
-[conceptos](conceptos.md)
+[conceptos basicos](conceptos.md)

@@ -97,7 +97,7 @@
 - Tienen que ser realizar, para hacer posible su alzance
 - Su modificacion puede generar riesgos adicionales
 - Su cumplimiento satisface
- - Las necesidades y expectativas de los interesados
+ - Las necesidades, inquietudes y expectativas de los interesados
  - Equilibra las restricciones contrapuestas relativas al alcance, cronograma, presupuesto, calidad, recursos y riesgos para la produccion del resultado unico.
 
 ### Esfuerzo temporal
@@ -111,10 +111,20 @@
 
 ### Dirección de proyectos `Gestion de proyectos`
 - Aplicación del `pmbok` a las actividades de un proyecto, para cumplir los objetivos del proyecto.
+- Incluye la identificacion de requisitos.
+- Satisfaccion de los interesados en la planificacion y ejecucion.
+- Establecer, mantener y realizar comunicaciones activas, eficaces y de naturaleza colaborativas entre los interesados.
+- Gestionar a los interesados para el cumplimiento y entrega de los objetivos del proyecto.
 - Responsable de hacer cumplir los objetivos del proyecto.
-- Debe ser capaz de equilibrar las limitaciones o restricciones del proyecto: alcance, calidad, tiempo, riesgos, recursos, costos y satisfacción del cliente.
- - Debido a que estan conectadas, por lo tanto si se modifican o alteran una de estas, las demás pueden ser influenciadas ej:
+- Debe ser capaz de equilibrar las limitaciones o restricciones del proyecto: alcance, calidad, tiempo / cronograma, riesgos, recursos, costos / presupuesto y satisfacción del cliente, para cumplir con los objetivos del proyecto.
+ - Debido a que estan conectadas, por lo tanto si se modifican o alteran una de estas, las demás pueden ser influenciadas / afectadas ej:
   - [- tiempo]  -> [+ costos]
   - [- calidad] -> [- costos] + [- tiempo] + [-satisfacción del cliente]
-- Tiene equilibrar las limitaciones o restricciones para cumplir con los objetivos del proyecto
  ![Image](imagenes/equilibrar-restricciones-y-limitaciones.png)  
+ - Las caracteristicas especificas del proyecto y las circunstancias pueden influir sobre las restricciones.
+
+- Dado el potencial de cambios, el desarrollo del plan para la dirección del proyecto es una actividad iterativa
+y su elaboración es progresiva a lo largo del ciclo de vida del proyecto. La elaboración progresiva implica
+mejorar y detallar el plan de manera continua, a medida que se cuenta con información más detallada y
+específica, y con estimaciones más precisas. La elaboración progresiva permite al equipo de dirección del
+proyecto definir el trabajo y gestionarlo con un mayor nivel de detalle a medida que el proyecto va avanzando.

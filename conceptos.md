@@ -19,8 +19,7 @@
 - Esfuerzo planificado, temporal y unico para la creacion de un `resultado unico` | `entregable` que agreguen valor o causen un cambio retroactivo.
 - Suger de una necesidad `caso de negocio`.
 - La cualidad temporal del proyecto, no se aplica al `resultado unico`, porque puede tener una gran longevidad.
-
-- Objetivos es igual a requerimientos.
+- Esta completo cuando los objetivos han sido alcanzados.
 
 ### Caso de negocio
 - Genera un proyecto.
@@ -66,7 +65,7 @@
 - Conjunto de actividades que satisfacen una necesidad
 - Es intangible.
 
-### Entregable
+### Entregable `Resultado único`
  - Es un producto o servicio.
  - Es unico y verificable `¿es conforme a lo acordado?` | `¿esta completo?`.
  - Es producido al terminar un proceso, fase o un proyecto.
@@ -78,12 +77,10 @@
  - Puede ser el componente de otro elemento.
  - Puede ser una mejora de un elemento.
  - Puede ser una conclusion a una investigacion.
-
-### Resultado único
- - Es un entregable.
- - Es un resultado diferente que permite ser tratado de distintas maneras, en distintos proyectos.
- - Pueden existir elementos repetitivos entre algunos entregables y actividades del proyecto, esta repeticion no altera las caracteristicas fundamentales y unicas del trabajo del proyecto.
- - Pueden ser construidos por herramientas, materiales y recursos identicos o similares, cada proyecto en su construccion es unico, puede tener un lugar, diseño, interesados, circunstancia y situaciones diferentes.
+ - Es unico:
+  - Es un resultado diferente que permite ser tratado de distintas maneras, en distintos proyectos.
+  - Pueden existir elementos repetitivos entre algunos entregables y actividades del proyecto, esta repeticion no altera las caracteristicas fundamentales y unicas del trabajo del proyecto.
+  - Pueden ser construidos por herramientas, materiales y recursos identicos o similares, cada proyecto en su construccion es unico, puede tener un lugar, diseño, interesados, circunstancia y situaciones diferentes.
 
 ### Sponsor `Patrocinador`
 - Establece cuando el proyecto se inicia o se detiene.
@@ -91,14 +88,33 @@
 - Lidera al gestor de proyecto.
 - Se encarga del financiamiento.
 
+### Objectivos `Requisitos`
+- Extraidos de los interesados.
+- Registrados en el `acta de constitucion`.
+- Si se identifica que no pueden ser cumplidos, se requerira una redefinicion o adecuacion, para su alcance.
+- Tienen que ser medibles, para conocer su progreso o si estan alcanzados.
+- Tienen que ser claros, no ambiguos, faciles de entender.
+- Tienen que ser realizar, para hacer posible su alzance
+- Su modificacion puede generar riesgos adicionales
+- Su cumplimiento satisface
+ - Las necesidades y expectativas de los interesados
+ - Equilibra las restricciones contrapuestas relativas al alcance, cronograma, presupuesto, calidad, recursos y riesgos para la produccion del resultado unico.
+
 ### Esfuerzo temporal
-- Es un periodo o intervalo de tiempo
-- Empieza `fecha inicio` y finaliza `fecha fin`
+- Es un periodo o intervalo de tiempo.
+- Empieza `fecha inicio` y finaliza `fecha fin`.
 - El final se alcanza cuando:
   - Se logran los objetivos.
   - Los objetivos no se pueden cumplir.
   - Ya no existe la necesidad que lo origino.
   - Si el cliente desea terminar el proyecto.
 
-### Gestion de proyectos `Dirección de proyectos`
-- Aplicación del `pmbok` a las actividades de un proyecto, para cumplir los objetivos
+### Dirección de proyectos `Gestion de proyectos`
+- Aplicación del `pmbok` a las actividades de un proyecto, para cumplir los objetivos del proyecto.
+- Responsable de hacer cumplir los objetivos del proyecto.
+- Debe ser capaz de equilibrar las limitaciones o restricciones del proyecto: alcance, calidad, tiempo, riesgos, recursos, costos y satisfacción del cliente.
+ - Debido a que estan conectadas, por lo tanto si se modifican o alteran una de estas, las demás pueden ser influenciadas ej:
+  - [- tiempo]  -> [+ costos]
+  - [- calidad] -> [- costos] + [- tiempo] + [-satisfacción del cliente]
+- Tiene equilibrar las limitaciones o restricciones para cumplir con los objetivos del proyecto
+ ![Image](imagenes/equilibrar-restricciones-y-limitaciones.png)  
